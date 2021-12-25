@@ -66,7 +66,7 @@
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/abnet-nega/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://https://github.com/AbBiz101"><img src="https://img.icons8.com/wired/54/000000/github.png"/></a>
+<a href = "https://github.com/AbBiz101"><img src="https://img.icons8.com/wired/54/000000/github.png"/></a>
 
 </p>
 
