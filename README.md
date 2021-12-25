@@ -34,7 +34,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview"> <img width='100px'src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_64636a5c446c22391d4ed719e0987cd2/arcgis-pro.png"/> </a>
-    <a href="https://www.3dcitydb.org/3dcitydb/" target="_blank"> <img width='100px'src="https://w7.pngwing.com/pngs/826/308/png-transparent-citygml-database-schema-information-3d-city-models-others-angle-logo-data.png"/> </a>
+    <a href="https://www.3dcitydb.org/3dcitydb/" target="_blank"> <img width='100px'src="https://www.3dcitydb.org/3dcitydb-web-map/1.9.0/3dwebclient/images/3DCityDB_Logo.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
     <a href="https://www.ogc.org/standards/citygml" target="_blank"> <img src="https://dmpublisher.s3.us-west-2.amazonaws.com/2019/December/17/7/9203a2c3-e51e-4a86-8aeb-e52fe14e72a9-sized" alt="express" height="60"/> </a>
 </p>
