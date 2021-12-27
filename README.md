@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[3D cadaster](https://)** using Webgl
+- 🔭 I’m currently working on **[3D cadaster](https://)** using WebGL
 
 - 🌱 I’m currently learning **React Native**
 
