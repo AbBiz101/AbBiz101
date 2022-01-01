@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[3D cadaster](https://)** using WebGL
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **TypeScript**
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
