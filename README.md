@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **[3D cadaster](https://)** using WebGL
 
-- 🌱 I’m currently learning **TypeScript**
-
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()** -->
@@ -63,7 +61,7 @@
 <br/>
 <br/>
 
-## Connect me<img height="60" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
+## Contact me<img height="60" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/abnet-nega/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
