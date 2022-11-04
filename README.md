@@ -36,6 +36,7 @@
     <a href="https://www.ogc.org/standards/citygml" target="_blank"> <img src="https://dmpublisher.s3.us-west-2.amazonaws.com/2019/December/17/7/9203a2c3-e51e-4a86-8aeb-e52fe14e72a9-sized" alt="express" height="50"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://www.sysleaf.com/static/4df94bc06ab3c9cbcafa31fe010c96e4/c1ced/nodejs-express.png" alt="express" height="50"/> </a>
     <a href="https://resium.reearth.io/" target="_blank"> <img src="https://resium.reearth.io/logo-sidebar.png" alt="express" height="50"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/UVlzv5dlRqaKaswsfUPk" alt="express" height="50"/> </a>
 </p>
 
 <br/>
